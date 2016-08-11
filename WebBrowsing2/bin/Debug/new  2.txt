@@ -1,0 +1,7 @@
+rigidbody.AddForce()
+rigidbody.AddTorque()
+transform.Translate() (додава нов вектор3 на transfrom.position)
+transform.LookAt()
+Lerp()  (Mathf.Lerp(), Vector3.Lerp(), Color.Lerp())
+
+Lights, Halo, Flares, Cookies, Light baking, Ray, LineRenderer

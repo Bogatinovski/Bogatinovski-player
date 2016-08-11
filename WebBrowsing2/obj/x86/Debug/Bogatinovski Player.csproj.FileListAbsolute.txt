@@ -1,0 +1,61 @@
+D:\Documents\Programiranje\C # projects\WebBrowsing2\WebBrowsing2\bin\Debug\Bogatinovski Player.exe
+D:\Documents\Programiranje\C # projects\WebBrowsing2\WebBrowsing2\bin\Debug\Bogatinovski Player.pdb
+D:\Documents\Programiranje\C # projects\WebBrowsing2\WebBrowsing2\bin\Debug\Interop.WMPLib.dll
+D:\Documents\Programiranje\C # projects\WebBrowsing2\WebBrowsing2\bin\Debug\AxInterop.WMPLib.dll
+D:\Documents\Programiranje\C # projects\WebBrowsing2\WebBrowsing2\obj\x86\Debug\Interop.WMPLib.dll
+D:\Documents\Programiranje\C # projects\WebBrowsing2\WebBrowsing2\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Documents\Programiranje\C # projects\WebBrowsing2\WebBrowsing2\obj\x86\Debug\Bogatinovski Player.csproj.ResolveComReference.cache
+D:\Documents\Programiranje\C # projects\WebBrowsing2\WebBrowsing2\obj\x86\Debug\Bogatinovski_Player.Form1.resources
+D:\Documents\Programiranje\C # projects\WebBrowsing2\WebBrowsing2\obj\x86\Debug\Bogatinovski_Player.Form2.resources
+D:\Documents\Programiranje\C # projects\WebBrowsing2\WebBrowsing2\obj\x86\Debug\Bogatinovski_Player.Properties.Resources.resources
+D:\Documents\Programiranje\C # projects\WebBrowsing2\WebBrowsing2\obj\x86\Debug\Bogatinovski Player.csproj.GenerateResource.Cache
+D:\Documents\Programiranje\C # projects\WebBrowsing2\WebBrowsing2\obj\x86\Debug\Bogatinovski Player.exe
+D:\Documents\Programiranje\C # projects\WebBrowsing2\WebBrowsing2\obj\x86\Debug\Bogatinovski Player.pdb
+D:\Documents\Programiranje\C # projects\WebBrowsing2\WebBrowsing2\bin\Debug\cuteButton.dll
+D:\Documents\Programiranje\C # projects\WebBrowsing2\WebBrowsing2\bin\Debug\cuteButton.pdb
+C:\Users\Dejan\Desktop\WebBrowsing2\WebBrowsing2\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Dejan\Desktop\WebBrowsing2\WebBrowsing2\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Dejan\Desktop\WebBrowsing2\WebBrowsing2\obj\x86\Debug\Bogatinovski Player.csproj.ResolveComReference.cache
+C:\Users\Dejan\Desktop\WebBrowsing2\WebBrowsing2\obj\x86\Debug\Bogatinovski Player.exe
+C:\Users\Dejan\Desktop\WebBrowsing2\WebBrowsing2\obj\x86\Debug\Bogatinovski Player.pdb
+C:\Users\Dejan\Desktop\WebBrowsing2\WebBrowsing2\obj\x86\Debug\Bogatinovski Player.csprojResolveAssemblyReference.cache
+C:\Users\Dejan\Desktop\WebBrowsing2\WebBrowsing2\obj\x86\Debug\Bogatinovski_Player.Form1.resources
+C:\Users\Dejan\Desktop\WebBrowsing2\WebBrowsing2\obj\x86\Debug\Bogatinovski_Player.Form2.resources
+C:\Users\Dejan\Desktop\WebBrowsing2\WebBrowsing2\obj\x86\Debug\Bogatinovski_Player.Properties.Resources.resources
+C:\Users\Dejan\Desktop\WebBrowsing2\WebBrowsing2\obj\x86\Debug\Bogatinovski Player.csproj.GenerateResource.Cache
+C:\Users\Dejan\Desktop\WebBrowsing2\WebBrowsing2\bin\Debug\Bogatinovski Player.exe
+C:\Users\Dejan\Desktop\WebBrowsing2\WebBrowsing2\bin\Debug\Bogatinovski Player.pdb
+C:\Users\Dejan\Desktop\WebBrowsing2\WebBrowsing2\bin\Debug\cuteButton.pdb
+C:\Users\Dejan\Desktop\WebBrowsing2\WebBrowsing2\bin\Debug\Interop.WMPLib.dll
+C:\Users\Dejan\Desktop\WebBrowsing2\WebBrowsing2\bin\Debug\AxInterop.WMPLib.dll
+D:\Documents\Programiranje\C # projects\WebBrowsing2\WebBrowsing2\obj\x86\Debug\Bogatinovski Player.csprojResolveAssemblyReference.cache
+D:\Documents\Programiranje\C # projects\WebBrowsing2\WebBrowsing2\bin\Debug\Bogatinovski Player.exe.manifest
+D:\Documents\Programiranje\C # projects\WebBrowsing2\WebBrowsing2\bin\Debug\Bogatinovski Player.application
+D:\Documents\Programiranje\C # projects\WebBrowsing2\WebBrowsing2\obj\x86\Debug\Bogatinovski Player.exe.manifest
+D:\Documents\Programiranje\C # projects\WebBrowsing2\WebBrowsing2\obj\x86\Debug\Bogatinovski Player.application
+C:\Users\Dejan\Desktop\WebBrowsing2\WebBrowsing2\bin\Debug\Bogatinovski Player.exe.manifest
+C:\Users\Dejan\Desktop\WebBrowsing2\WebBrowsing2\bin\Debug\Bogatinovski Player.application
+C:\Users\Dejan\Desktop\WebBrowsing2\WebBrowsing2\obj\x86\Debug\Bogatinovski Player.exe.manifest
+C:\Users\Dejan\Desktop\WebBrowsing2\WebBrowsing2\obj\x86\Debug\Bogatinovski Player.application
+D:\Documents\Programiranje\C # projects\WebBrowsing2 - Copy (2)\WebBrowsing2\obj\x86\Debug\Interop.WMPLib.dll
+D:\Documents\Programiranje\C # projects\WebBrowsing2 - Copy (2)\WebBrowsing2\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\Documents\Programiranje\C # projects\WebBrowsing2 - Copy (2)\WebBrowsing2\obj\x86\Debug\Bogatinovski Player.csproj.ResolveComReference.cache
+D:\Documents\Programiranje\C # projects\WebBrowsing2 - Copy (2)\WebBrowsing2\obj\x86\Debug\Bogatinovski Player.exe
+D:\Documents\Programiranje\C # projects\WebBrowsing2 - Copy (2)\WebBrowsing2\obj\x86\Debug\Bogatinovski Player.pdb
+D:\Documents\Programiranje\C # projects\WebBrowsing2 - Copy (2)\WebBrowsing2\bin\Debug\Bogatinovski Player.exe.manifest
+D:\Documents\Programiranje\C # projects\WebBrowsing2 - Copy (2)\WebBrowsing2\bin\Debug\Bogatinovski Player.application
+D:\Documents\Programiranje\C # projects\WebBrowsing2 - Copy (2)\WebBrowsing2\bin\Debug\Bogatinovski Player.exe
+D:\Documents\Programiranje\C # projects\WebBrowsing2 - Copy (2)\WebBrowsing2\bin\Debug\Bogatinovski Player.pdb
+D:\Documents\Programiranje\C # projects\WebBrowsing2 - Copy (2)\WebBrowsing2\bin\Debug\Interop.WMPLib.dll
+D:\Documents\Programiranje\C # projects\WebBrowsing2 - Copy (2)\WebBrowsing2\bin\Debug\AxInterop.WMPLib.dll
+D:\Documents\Programiranje\C # projects\WebBrowsing2 - Copy (2)\WebBrowsing2\obj\x86\Debug\Bogatinovski_Player.Form1.resources
+D:\Documents\Programiranje\C # projects\WebBrowsing2 - Copy (2)\WebBrowsing2\obj\x86\Debug\Bogatinovski_Player.Form2.resources
+D:\Documents\Programiranje\C # projects\WebBrowsing2 - Copy (2)\WebBrowsing2\obj\x86\Debug\Bogatinovski_Player.Properties.Resources.resources
+D:\Documents\Programiranje\C # projects\WebBrowsing2 - Copy (2)\WebBrowsing2\obj\x86\Debug\Bogatinovski Player.csproj.GenerateResource.Cache
+D:\Documents\Programiranje\C # projects\WebBrowsing2 - Copy (2)\WebBrowsing2\obj\x86\Debug\Bogatinovski Player.exe.manifest
+D:\Documents\Programiranje\C # projects\WebBrowsing2 - Copy (2)\WebBrowsing2\obj\x86\Debug\Bogatinovski Player.application
+D:\Documents\Programiranje\C # projects\WebBrowsing2 - Copy (2)\WebBrowsing2\obj\x86\Debug\Interop.Microsoft.Vbe.Interop.Forms.dll
+D:\Documents\Programiranje\C # projects\WebBrowsing2 - Copy (2)\WebBrowsing2\obj\x86\Debug\Interop.SYNCOMLib.dll
+D:\Documents\Programiranje\C # projects\WebBrowsing2 - Copy (2)\WebBrowsing2\obj\x86\Debug\Bogatinovski Player.csprojResolveAssemblyReference.cache
+D:\Documents\Programiranje\C # projects\WebBrowsing2 - Copy (2)\WebBrowsing2\bin\Debug\HtmlAgilityPack.pdb
+D:\Documents\Programiranje\C # projects\WebBrowsing2 - Copy (2)\WebBrowsing2\bin\Debug\HtmlAgilityPack.xml
